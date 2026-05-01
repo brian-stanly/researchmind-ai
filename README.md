@@ -1,2 +1,7 @@
-# researchmind-ai
-A production-style RAG system for research papers with hybrid retrieval and citation-backed responses, incorporating async ingestion pipelines and re-ranking to improve answer relevance by 35%.
+# ResearchMind AI – Domain-Specific Research Assistant (RAG System)
+
+## Project Overview
+A scalable Retrieval-Augmented Generation system that enables citation-backed Q&A over research papers using semantic search and LLM reasoning.
+
+## Architecture Diagram
+[!Architecture](docs/researchmind_architecture.png)
