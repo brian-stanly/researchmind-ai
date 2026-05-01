@@ -5,3 +5,13 @@ A scalable Retrieval-Augmented Generation system that enables citation-backed Q&
 
 ## Architecture Diagram
 ![Architecture](docs/researchmind_architecture.png)
+
+## Tech Stack
+- Django + DRF
+- FAISS/Pinecone
+- Celery + Redis
+
+## Features
+- PDF based Q&A
+- Semantic search
+- Async processing
